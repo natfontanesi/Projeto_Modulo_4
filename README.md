@@ -1,15 +1,15 @@
-## Projeto 4  - Exploração e Visualização de Dados
+<img src="https://github.com/giselemanuel/Projeto_Modulo_4/blob/main/Fotos/banner.png" data-canonical-src="https://github.com/giselemanuel/Projeto_Modulo_4/blob/main/Fotos/banner.png" width="1000" height="400" />  
 
 ### Descrição do Projeto
 ---
 
-Este é o quarto projeto da formação de Analista de dados do programa VamoAI do [IFood](https://www.linkedin.com/posts/ifood-_inteligaeanciaartificial-tecnologia-dados-activity-6727679437791342592-opfn) com parceria da [Resilia Educação](https://www.linkedin.com/school/resilia-educacao/) duranta o módulo os alunos aprenderam aplicação e usabilidade das bibliotecas pandas, matplotlib, Seaborn, utilização do google colab, Tableau e conceitos de Introdução storytelling.
+Este é o quarto projeto da formação de Analista de dados do programa VamoAI do [IFood](https://www.linkedin.com/posts/ifood-_inteligaeanciaartificial-tecnologia-dados-activity-6727679437791342592-opfn) com parceria da [Resilia Educação](https://www.linkedin.com/school/resilia-educacao/) duranta o módulo os alunos aprenderam aplicação e usabilidade das bibliotecas pandas, matplotlib, Seaborn, utilização do google colab, Tableau e conceitos de Introdução de storytelling.
 
 Para concluír este processo de aprendizagem fizemos uma análise exploratória ao banco de dados [COVID-19](https://brasil.io/dataset/covid19/caso/), extraído do site da [Brasil.io](https://brasil.io/home/) utilizando a biblioteca pandas no Jupyter, os insights dos dados analisados foram exibidos atráves de Dashboard na ferramenta [Tableau](https://www.tableau.com).
 
 ### Visualização dos Dados
 ---
-![Dashboard-1]()
+![Dashboard-1](https://github.com/giselemanuel/Projeto_Modulo_4/blob/main/Fotos/dashboard.png)
 
 ### Informações do Grupo
 ---
