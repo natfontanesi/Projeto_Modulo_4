@@ -21,7 +21,6 @@ Essas atitudes acarretaram as quase 550mil mortes, some-se a isso, a demora em a
 ## **Os Números da COVID em São Paulo e a Eficiencia da Vacinação**
 
 Temos, no estado de São Paulo 46.639.899 habitantes, e, no início da pandemia, em 01/04/20, tínhamos 2.981 casos. Em 13/06/21, esse número é de 3.458.849 casos.
-Algumas cidades adotaram o chamado tratamento precoce, já completamente descartado pela OMS, obtiveram resultados desastrosos, e tem o número de casos e óbitos bem elevados dentro do estado.
 
 Porem a vacinação em massa corrobora, a já sabida eficiência da Vacina, como mostram as duas cidades aqui no estado de São Paulo, que praticaram a vacinação em massa, Serrana (com a Coranavac, que tem intervalo de 15 dias entre a 1ª e 2ª dose) e Botucatu(Atrazeneca/Oxford que tem intervalo de 90 dias entre a 1ª e 2ª dose), e mais uma vez ficou provado que a forma mais eficaz, somada ao distanciamento social, higienização com álcool em gel e 70° e o uso de máscara, é a vacinação.
 
