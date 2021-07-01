@@ -34,10 +34,11 @@ A análise dos dados nos leva a concluir que sim, é necessário mantermos o dis
 ---
 ![Dashboard-1](https://github.com/giselemanuel/Projeto_Modulo_4/blob/main/Fotos/dashboard.png)
 
-### Informações do Grupo
+
 ---
 
-<table>
+<table align="center">
+  
   <td align="center"><br>
         <a href="">
             <img src="https://github.com/giselemanuel/projeto3-programa-Ifood-backend/blob/main/imagens/giselemannuel.JPG" width="150px;" alt="Gisele Rodrigues" style="max-width:100%;">
@@ -62,7 +63,7 @@ A análise dos dados nos leva a concluir que sim, é necessário mantermos o dis
 </td>
 <td align="center"><br>
         <a href="">
-            <img src="https://avatars.githubusercontent.com/u/72411718?v=4" width="150px;" alt="Natascha Weber" style="max-width:100%;">
+            <img src="https://avatars.githubusercontent.com/u/72411718?v=4" width="150px;" align="center"; alt="Natascha Weber" style="max-width:100%;">
             <br><sub><b>Natascha Weber</b></sub><br>
         <p align="center">
             </a>    
