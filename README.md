@@ -63,7 +63,7 @@ A análise dos dados nos leva a concluir que sim, é necessário mantermos o dis
 <td align="center"><br>
         <a href="">
             <img src="https://avatars.githubusercontent.com/u/72411718?v=4" width="150px;" alt="Natascha Weber" style="max-width:100%;">
-            <br><sub><b>Ludmila Leal</b></sub><br>
+            <br><sub><b>Natascha Weber</b></sub><br>
         <p align="center">
             </a>    
             <a href="https://github.com/natfontanesi">
