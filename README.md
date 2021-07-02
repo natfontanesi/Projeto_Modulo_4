@@ -7,7 +7,7 @@ Este é o quarto projeto da formação de Analista de dados do programa VamoAI d
 
 Para concluír este processo de aprendizagem fizemos uma análise exploratória ao banco de dados [COVID-19](https://brasil.io/dataset/covid19/caso/), extraído do site da [Brasil.io](https://brasil.io/home/) utilizando a biblioteca pandas no Jupyter, os insights dos dados analisados foram exibidos atráves de Dashboard na ferramenta [Tableau](https://www.tableau.com).
 
-## **O que é a Covid e como chegou ao Brasil?**
+### **O que é a Covid-19 e como chegou ao Brasil?**
 
 COVID-19 é a doença causada por um novo coronavírus denominado SARS-CoV-2. A OMS tomou conhecimento deste novo vírus em 31 de dezembro de 2019, após um relatório de um grupo de casos de 'pneumonia viral' em Wuhan, na República Popular da China.
 O primeiro caso de Covid-19 foi confirmado no Brasil no dia 26 de fevereiro. O paciente era um homem que esteve na Itália e se recuperou da doença.
@@ -18,7 +18,7 @@ Como nós três, moramos no estado de SP e, por ser o mais populoso do país, op
 O Governo federal sempre foi negacionista, e dificultou a implementação de medidas necessárias e comprovadamente eficazes, como o lockdown, recomendadas inclusive pela OMS, assim, a contenção do vírus foi muito prejudicada no Brasil, que teve 4 ministros da saúde até aqui.
 Essas atitudes acarretaram as quase 550mil mortes, some-se a isso, a demora em adquirir as vacinas disponíveis, somente após um ano de pandemia, é que, muito discretamente e a contragosto do executivo federal, algumas medidas foram tomadas, por pressão popular, o que torna o Brasil no momento um dos recordistas em números de casos e mortes.
 
-## **Os Números da COVID em São Paulo e a Eficiencia da Vacinação**
+### **Os números da Covid-19 em São Paulo e a eficiencia da vacinação**
 
 Temos, no estado de São Paulo 46.639.899 habitantes, e, no início da pandemia, em 01/04/20, tínhamos 2.981 casos. Em 13/06/21, esse número é de 3.458.849 casos.
 
@@ -28,11 +28,17 @@ Porem a vacinação em massa corrobora, a já sabida eficiência da Vacina, como
 
 A análise dos dados nos leva a concluir que sim, é necessário mantermos o distanciamento social, a higienização e o uso de máscara, e que a vacinação em massa é a única forma de contermos a pandemia, e aos poucos podermos retornar a vida normal.
 
+### Storytelling
+---
+
+![Mapa-Mental](https://github.com/giselemanuel/Projeto_Modulo_4/blob/main/Fotos/storytelling.png)
 
 ### Visualização dos Dados
 ---
-![Dashboard-1](https://github.com/giselemanuel/Projeto_Modulo_4/blob/main/Fotos/dashboard.png)
-
+![Dashboard-1](https://github.com/giselemanuel/Projeto_Modulo_4/blob/main/Fotos/Dash%201.png)
+![Dashboard-2](https://github.com/giselemanuel/Projeto_Modulo_4/blob/main/Fotos/Dash%202.png)
+![Dashboard-3](https://github.com/giselemanuel/Projeto_Modulo_4/blob/main/Fotos/Dash%203.png)
+![Dashboard-4](https://github.com/giselemanuel/Projeto_Modulo_4/blob/main/Fotos/Dash%204.png)
 
 ---
 
